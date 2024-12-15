@@ -9,7 +9,7 @@ This repository focuses on an AI project for **age detection from facial images*
 ## Project Links
 
 - [GitHub Repository](https://github.com/vatsaldadia/comp6721_project)
-- [Video Presentation](<insert-your-video-download-link-here>)
+- [Video Presentation](https://drive.google.com/file/d/1wYOFcui9W8cbsqQ7X2nkmptP9I8plJlX/view?usp=drive_link)
 
 
 | **Name**                | **ID**      | **Role**                        | **Contribution**                                  |
