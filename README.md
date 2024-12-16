@@ -32,6 +32,10 @@ Efficient feature reuse across layers.
 Computationally efficient using depthwise separable convolutions.
 Captures fine details such as wrinkles and textures using global pooling.
 
+## How to Run this Project
+
+To run this project check on the file named [HOW_TO_RUN.md](HOW_TO_RUN.md)
+
 ## Methodology
 ### Preprocessing:
 Images resized to 224x224.
