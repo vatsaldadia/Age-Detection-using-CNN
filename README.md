@@ -53,6 +53,7 @@ Early stopping used to prevent overfitting.
 - VGGNet underperformed compared to DenseNet and EfficientNet.
 - Generalizability challenges observed when using transfer learning from ImageNet weights.
 
+## Project Contribution
 
 | **Name**                | **ID**      | **Role**                        | **Contribution**                                  |
 |-------------------------|-------------|---------------------------------|-------------------------------------------------|
