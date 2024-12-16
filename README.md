@@ -33,22 +33,22 @@ Computationally efficient using depthwise separable convolutions.
 Captures fine details such as wrinkles and textures using global pooling.
 
 ## Methodology
-# Preprocessing:
+### Preprocessing:
 Images resized to 224x224.
 Normalization applied as per ImageNet standards.
 Data augmentation: random rotations, flips, color jittering, and brightness adjustments.
-# Training:
+### Training:
 Optimizer: Adam Optimizer (Learning rate = 0.001, step scheduling applied).
 Loss Function: Cross-Entropy Loss.
 Batch Size: 32 | Epochs: 5, 10, and 20.
 Early stopping used to prevent overfitting.
 
-## Evaluation Metrics
+### Evaluation Metrics
 - Accuracy: Overall classification performance.
 - Precision, Recall, and F1 Score: Detailed analysis using classification reports.
 - Visualization: t-SNE for feature embeddings and loss vs. epoch curves.
 
-## Results
+### Results
 - EfficientNet achieved the best accuracy and computational efficiency across all datasets.
 - VGGNet underperformed compared to DenseNet and EfficientNet.
 - Generalizability challenges observed when using transfer learning from ImageNet weights.
