@@ -1,5 +1,4 @@
-# Subject - Applied Artificial Intelligence COMP 6721
-# Group T
+
 # Age Detection Using Convolutional Neural Networks  
 
 ## Overview
@@ -56,12 +55,3 @@ Early stopping used to prevent overfitting.
 - EfficientNet achieved the best accuracy and computational efficiency across all datasets.
 - VGGNet underperformed compared to DenseNet and EfficientNet.
 - Generalizability challenges observed when using transfer learning from ImageNet weights.
-
-## Project Contribution
-
-| **Name**                | **ID**      | **Role**                        | **Contribution**                                  |
-|-------------------------|-------------|---------------------------------|-------------------------------------------------|
-| **Vatsal Dadia**        | 40305289    | Data Preprocessing   and model training              | Handled the training for the Adience Dataset. Found a better approach on VGGNet to ensure higher accuracy. Helped in documentation. Experimented with the hyperparameters.  ⁠Optimization : Batch 32. Transfer learning. 2 tsne. |  
-| **Shashwat Shah**       | 40311188    | Documentation | Conducted Dataset Performance Analysis Based on Image Resolution, evaluating model accuracy across varying image sizes. Additionally, contributed to model specifications, report writing, presentations, documentation, and literature review. |  
-| **Mohnish Mirchandani** | 40301836    | Data Preprocessing   and model training                  | ⁠Training of DenseNet, EfficientNet, and VGGNet on FacialAge Dataset. ⁠Transfer Learning - Shufflenet. ⁠Documentation and Report. ⁠Optimization : Batch 64. Documentation. Transfer learning. 1 tsne. |
-| **Santhosh Dayakar**    | 40302539    | Data Preprocessing   and model training           |  Utilized the UTKFace dataset to train deep learning models including EfficientNet, VGG, and DenseNet, focusing on facial age prediction tasks. Conducted extensive experiments by fine-tuning model parameters and hyperparameters to identify the optimal configuration for achieving high accuracy. Evaluated model performance using metrics such as precision, recall, F1-score, and confusion matrix, ensuring a thorough comparison to select the best-suited model for the task. |
